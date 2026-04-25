@@ -1,8 +1,6 @@
 
 # 3D Latent Market Manifold
 
-##  Dev/Creator: tubakhxn
-
 ##  What is this project?
 This project visualizes the hidden geometry of financial markets by embedding time series data (like prices, returns, volatility, etc.) into a 3D latent space using dimensionality reduction (PCA, t-SNE, UMAP). Instead of plotting prices directly, it reveals the "shape" of the market as a 3D manifold, helping you see market regimes, transitions, and structure.
 
