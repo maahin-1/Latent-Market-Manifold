@@ -4,3 +4,8 @@ scikit-learn
 matplotlib
 plotly
 umap-learn
+yfinance
+dash
+dash-bootstrap-components
+joblib
+scipy
